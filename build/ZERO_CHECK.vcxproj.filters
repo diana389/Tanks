@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aaaa\Desktop\de ce m as sinucide\EGC\Tema 2\gfx-framework-master\build\CMakeFiles\f3970c01163f6d40a471d0a5ddea8afb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{58CBA6D6-B190-35F2-B75A-1D77E1E8773B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
